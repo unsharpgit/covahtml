@@ -3,7 +3,7 @@ HTML Covalto
 
 Reto:
 
-● Encuentra todos los errores que contiene la siguiente página y enlistarlos en un documento.
+● Encuentra todos los errores que contiene la siguiente página y enlistarlos en un documento [html_Errors].
 
 ● Corrígelos y coloca la evidencia de la página como debe verse de manera correcta.
 
